@@ -1,0 +1,13 @@
+    время проверки              имя ресурса     результат проверки
+[04.02.2021 04:55:10.885]	github.com	available
+[05.02.2021 14:53:04.747]	192.168.1.70	not available
+[05.02.2021 14:54:04.808]	github.com	available
+[05.02.2021 14:54:09.747]	jenkins.io	not available
+[05.02.2021 14:54:11.246]	192.168.1.70	not available
+[06.02.2021 10:43:13.273]	github.com	available
+[06.02.2021 10:43:18.249]	jenkins.io	not available
+[06.02.2021 10:43:21.247]	192.168.1.70	not available
+[06.02.2021 10:49:39.762]	github.com	available
+[06.02.2021 10:49:44.749]	jenkins.io	not available
+[06.02.2021 10:49:46.295]	192.168.1.70	not available
+[06.02.2021 10:49:46.363]	yandex.ru	available

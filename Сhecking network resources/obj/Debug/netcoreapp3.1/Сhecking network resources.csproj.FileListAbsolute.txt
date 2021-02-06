@@ -1,0 +1,13 @@
+D:\GitHub\Сhecking network resources\Сhecking network resources\bin\Debug\netcoreapp3.1\Сhecking network resources.exe
+D:\GitHub\Сhecking network resources\Сhecking network resources\bin\Debug\netcoreapp3.1\Сhecking network resources.deps.json
+D:\GitHub\Сhecking network resources\Сhecking network resources\bin\Debug\netcoreapp3.1\Сhecking network resources.runtimeconfig.json
+D:\GitHub\Сhecking network resources\Сhecking network resources\bin\Debug\netcoreapp3.1\Сhecking network resources.runtimeconfig.dev.json
+D:\GitHub\Сhecking network resources\Сhecking network resources\bin\Debug\netcoreapp3.1\Сhecking network resources.dll
+D:\GitHub\Сhecking network resources\Сhecking network resources\bin\Debug\netcoreapp3.1\Сhecking network resources.pdb
+D:\GitHub\Сhecking network resources\Сhecking network resources\obj\Debug\netcoreapp3.1\Сhecking network resources.csprojAssemblyReference.cache
+D:\GitHub\Сhecking network resources\Сhecking network resources\obj\Debug\netcoreapp3.1\Сhecking network resources.AssemblyInfoInputs.cache
+D:\GitHub\Сhecking network resources\Сhecking network resources\obj\Debug\netcoreapp3.1\Сhecking network resources.AssemblyInfo.cs
+D:\GitHub\Сhecking network resources\Сhecking network resources\obj\Debug\netcoreapp3.1\Сhecking network resources.csproj.CoreCompileInputs.cache
+D:\GitHub\Сhecking network resources\Сhecking network resources\obj\Debug\netcoreapp3.1\Сhecking network resources.dll
+D:\GitHub\Сhecking network resources\Сhecking network resources\obj\Debug\netcoreapp3.1\Сhecking network resources.pdb
+D:\GitHub\Сhecking network resources\Сhecking network resources\obj\Debug\netcoreapp3.1\Сhecking network resources.genruntimeconfig.cache
